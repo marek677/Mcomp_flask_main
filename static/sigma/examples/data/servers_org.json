@@ -1,0 +1,16 @@
+{
+	"edges":[
+		{"source":"c0","target":"srv0","id":"conn00"},
+		{"source":"c1","target":"srv1","id":"conn11"},
+		{"source":"c1","target":"srv2","id":"conn12"},
+		{"source":"c2","target":"srv2","id":"conn22"}
+	],
+	"nodes":[
+		{"label":"Server_0","x":100,"y":0,"id":"srv0","color":"rgb(255,0,0)","size":8.540210723876953},
+		{"label":"Server_1","x":200,"y":0,"id":"srv1","color":"rgb(255,128,0)","size":8.540210723876953},
+		{"label":"Server_2","x":300,"y":0,"id":"srv2","color":"rgb(255,255,0)","size":8.540210723876953},
+		{"label":"Client_0","x":100,"y":100,"id":"c0","color":"rgb(0,0,255)","size":8.540210723876953},
+		{"label":"Client_1","x":200,"y":100,"id":"c1","color":"rgb(0,128,255)","size":8.540210723876953},
+		{"label":"Client_2","x":300,"y":100,"id":"c2","color":"rgb(0,255,255)","size":8.540210723876953}
+	]
+}
